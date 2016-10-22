@@ -63,6 +63,6 @@ An animation of an expanding set of colors.
 ![alt tag](gifs/TieDye.gif)
 
 # Tornado
-An animation of spheres orbitting in a circle, as if there were a Tornada in the middle. Users can create orbs by clicking on a blank space and delete orbs by selecting an orb and then hitting the delete button.
+An animation of spheres orbitting in a circle as if there were a Tornado in the middle. Users can create orbs by clicking on a blank space and delete orbs by selecting an orb and then hitting the delete button. The left and right arrow keys rotate the spheres.
 
 ![alt tag](gifs/Tornado.gif)
