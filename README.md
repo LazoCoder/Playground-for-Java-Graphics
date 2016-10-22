@@ -4,7 +4,7 @@ A collection of small graphics related programs written in Java. Each folder con
 javac Window.java
 java Window
 ```
-The following contains a short description of each animation & simulation. I did not include a gif for each animation as I did not want to slow down the rate at which the page loads.
+The following contains a short description of each animation & simulation. I did not include a gif for each animation as I did not want to slow down the rate at which the page loads. Furthermore, the animations are much smoother than they appear in the gifs.
 
 # Bart
 An animation of orbs hovering around Bart Simpson.
@@ -29,7 +29,12 @@ Processes a static image (such as a .png) and divides the image based on cluster
 ![alt tag](gifs/ImageSegmentation.gif)
 
 # MazeGenerator
-Generates a random maze and prints it to the screen.
+Generates a random maze and prints it to the screen. The parameter determines the size (tiny, small, medium or large).
+```
+java Window -medium
+```
+
+![alt tag](gifs/MazeGenerator.png)
 
 # Particle System
 A simulation of particles that follow the mouse.
@@ -46,6 +51,8 @@ An animation of lines dancing across the screen.
 
 # SpiderWebZ
 An animation similar to SpiderWeb but with some small changes.
+
+![alt tag](gifs/SpiderWebZ.gif)
 
 # SuperNova
 Animates an explosion when the user clicks on the screen.
