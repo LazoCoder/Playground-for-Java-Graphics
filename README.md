@@ -23,7 +23,7 @@ An animation of a helix rotating.
 # Flag
 An animation of a flag waving.
 
-# Image Segmentaion
+# Image Segmentation
 Processes a static image (such as a .png) and divides the image based on clusters of related colors. The user can then click on the image to highlight the cluster.
 
 ![alt tag](gifs/ImageSegmentation.gif)
