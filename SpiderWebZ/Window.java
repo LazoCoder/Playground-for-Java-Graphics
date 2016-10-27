@@ -27,7 +27,7 @@ public class Window extends JFrame {
     private void setWindowProperties() {
         setResizable(false);
         pack();
-        setTitle("Lazo's Waves Graphics");
+        setTitle("Lazo's SpiderWebZ Animation");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setVisible(true);
     }
