@@ -18,7 +18,7 @@ A simulation of a ball that can be moved around with the arrow keys. The simulat
 A simulation that creates expanding bubbles when the user clicks on the screen.
 
 # DNA
-An animation of a helix rotating.
+![alt tag](gifs/DNA.gif)
 
 # Flag
 An animation of a flag waving.
@@ -55,7 +55,7 @@ An animation similar to SpiderWeb but with some small changes.
 ![alt tag](gifs/SpiderWebZ.gif)
 
 # SuperNova
-Animates an explosion when the user clicks on the screen.
+![alt tag](gifs/Supernova.gif)
 
 # TieDye
 An animation of an expanding set of colors.
