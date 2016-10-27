@@ -55,6 +55,8 @@ An animation similar to SpiderWeb but with some small changes.
 ![alt tag](gifs/SpiderWebZ.gif)
 
 # SuperNova
+Animates an explosion when the user clicks on the screen.
+
 ![alt tag](gifs/Supernova.gif)
 
 # TieDye
